@@ -1,0 +1,47 @@
+2024-09-18 12:42:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-18 12:42:37 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-18 12:42:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-18 12:42:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-18 12:42:39 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-18 13:02:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-18 13:02:09 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-18 13:02:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-18 13:02:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-18 13:02:11 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-18 13:02:11 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-18 13:02:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-09-18 13:03:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-18 13:03:00 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-18 13:03:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-18 13:03:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-18 13:03:02 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-18 13:03:02 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-18 13:03:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-09-18 13:06:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-18 13:06:14 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-18 13:06:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-18 13:06:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-18 13:06:16 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-18 13:06:16 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-18 13:06:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-09-21 21:35:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-21 21:35:12 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-21 21:35:12 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-21 21:35:12 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-21 21:35:13 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-21 21:35:13 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-21 21:35:13 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-09-21 22:55:44 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-21 22:55:44 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-21 22:55:45 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-21 22:55:45 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-21 22:55:47 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-21 22:55:47 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-21 22:55:47 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-09-21 22:57:24 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-09-21 22:57:25 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-09-21 22:57:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-09-21 22:57:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-09-21 22:57:27 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-09-21 22:57:27 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-09-21 22:57:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******

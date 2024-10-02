@@ -1,0 +1,4 @@
+2024-10-01 12:53:07 [main] INFO  testCases.TC002_LoginTestCase - *****Starting for Login ***********
+2024-10-01 12:53:07 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked my account link ***********
+2024-10-01 12:53:08 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked login option ***********
+2024-10-01 12:53:09 [main] INFO  testCases.TC002_LoginTestCase - *****Logged into the Application ***********

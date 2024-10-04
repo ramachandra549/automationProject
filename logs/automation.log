@@ -1,4 +1,7 @@
-2024-10-01 12:53:07 [main] INFO  testCases.TC002_LoginTestCase - *****Starting for Login ***********
-2024-10-01 12:53:07 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked my account link ***********
-2024-10-01 12:53:08 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked login option ***********
-2024-10-01 12:53:09 [main] INFO  testCases.TC002_LoginTestCase - *****Logged into the Application ***********
+2024-10-04 09:57:18 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-04 09:57:28 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********
+2024-10-04 09:57:28 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-04 09:57:28 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-04 09:57:28 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-04 09:57:29 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-04 09:57:30 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********

@@ -6,4 +6,6 @@ C:\Users\admin\eclipse-workspace\automationProject\src\test\java\pageObjects\MyA
 C:\Users\admin\eclipse-workspace\automationProject\src\test\java\testBase\BaseClass.java
 C:\Users\admin\eclipse-workspace\automationProject\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\admin\eclipse-workspace\automationProject\src\test\java\testCases\TC002_LoginTestCase.java
+C:\Users\admin\eclipse-workspace\automationProject\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\admin\eclipse-workspace\automationProject\src\test\java\utilities\DataProviders.java
 C:\Users\admin\eclipse-workspace\automationProject\src\test\java\utilities\ExcelUtility.java

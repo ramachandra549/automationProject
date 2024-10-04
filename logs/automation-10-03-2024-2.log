@@ -1,0 +1,48 @@
+2024-10-03 18:34:36 [main] INFO  testCases.TC002_LoginTestCase - *****Logged into the Application ***********
+2024-10-03 18:34:42 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 18:34:42 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 18:34:43 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 18:34:44 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 18:34:45 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********
+2024-10-03 18:34:45 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 18:34:45 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 18:34:45 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 18:34:47 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 18:34:47 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 18:34:47 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 18:34:48 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 18:34:49 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 18:34:50 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 18:34:50 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 18:34:51 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 18:34:52 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 18:35:02 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********
+2024-10-03 18:35:02 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 18:35:02 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 18:35:02 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 18:35:04 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 18:35:05 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********
+2024-10-03 21:32:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution of TC001_AccountRegistrationTest Started
+2024-10-03 21:32:09 [main] INFO  testCases.TC001_AccountRegistrationTest - My account button clicked
+2024-10-03 21:32:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Registration button button clicked
+2024-10-03 21:32:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2024-10-03 21:32:11 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating Confirmation msg
+2024-10-03 21:32:11 [main] ERROR testCases.TC001_AccountRegistrationTest - Test is Failed
+2024-10-03 21:32:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Execution finished******
+2024-10-03 21:32:16 [main] INFO  testCases.TC002_LoginTestCase - *****Starting for Login ***********
+2024-10-03 21:32:16 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked my account link ***********
+2024-10-03 21:32:17 [main] INFO  testCases.TC002_LoginTestCase - *****Clicked login option ***********
+2024-10-03 21:32:18 [main] INFO  testCases.TC002_LoginTestCase - *****Logged into the Application ***********
+2024-10-03 21:32:26 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 21:32:26 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 21:32:27 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 21:32:28 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 21:32:29 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003 Login Test case_DDT***********
+2024-10-03 21:32:29 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 21:32:29 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 21:32:29 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 21:32:31 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********
+2024-10-03 21:32:31 [main] INFO  testCases.TC003_LoginDDT - *****TC003_LoginDDT testcase ***********
+2024-10-03 21:32:32 [main] INFO  testCases.TC003_LoginDDT - *****Clicked my account link ***********
+2024-10-03 21:32:32 [main] INFO  testCases.TC003_LoginDDT - *****Clicked login option ***********
+2024-10-03 21:32:33 [main] INFO  testCases.TC003_LoginDDT - *****Logged into the Application ***********

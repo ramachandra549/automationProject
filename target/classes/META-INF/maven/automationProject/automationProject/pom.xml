@@ -4,7 +4,6 @@
   <artifactId>automationProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-
   <build>
   
   	<pluginManagement>
@@ -30,8 +29,6 @@
     </pluginManagement>
   
   </build>
-
-  
     
   
   <dependencies>
@@ -92,8 +89,6 @@
     <artifactId>poi-ooxml</artifactId>
     <version>5.3.0</version>
 </dependency>
-
-
   
   </dependencies>
 </project>
